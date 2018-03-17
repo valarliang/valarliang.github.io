@@ -4,7 +4,7 @@
 
 ## Demo
 
-如果你也想拥有 >>Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
+Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
 
 The main page would look like this:
 
@@ -24,7 +24,7 @@ The post page would look like this:
 
 ## Installation:
 
-Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
+Fork the ``master`` branch and delete ``gh-pages`` branch in it(if there is). This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
 
 ### License
 
